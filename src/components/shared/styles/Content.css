@@ -1,0 +1,20 @@
+.stroke {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+
+.first__circle {
+  background: #171719;
+  box-shadow: inset 0 0px 30px #1E1E20;
+}
+
+.fifth__circle {
+  background-image: url('../../../assets/images/planet.png');
+  background-size: cover;
+}
+
+.title {
+  
+}	
+
